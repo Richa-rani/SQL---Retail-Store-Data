@@ -1,1 +1,1 @@
-This is a retail store data on which SQL query is used to find the answers to our questions. Also, PowerBI is used for data visualization.
+This is a retail store data on which SQL query is used to extract information. On the same data, PowerBI is used for data visualization.
